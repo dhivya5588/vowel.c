@@ -10,7 +10,7 @@ printf("vowel");
 }
 else
 {
-printf("not a vowel");
+printf("consonant");
 }
 getch();
 }
